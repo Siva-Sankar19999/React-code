@@ -1,0 +1,22 @@
+{
+  "name": "react-code",
+  "version": "1.0.0",
+  "description": "\"Learning React\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siva-Sankar19999/React-code.git"
+  },
+  "author": "Siva Sankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siva-Sankar19999/React-code/issues"
+  },
+  "homepage": "https://github.com/Siva-Sankar19999/React-code#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
